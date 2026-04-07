@@ -3,6 +3,7 @@ package com.leoregulus.eclosion.datagen;
 import com.leoregulus.eclosion.Eclosion;
 import com.leoregulus.eclosion.block.ModBlocks;
 import com.leoregulus.eclosion.item.ModItems;
+import com.leoregulus.eclosion.tag.ModItemTags;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.*;
 import net.minecraft.world.item.Items;
@@ -44,7 +45,8 @@ public class ModRecipesProvider extends RecipeProvider implements IConditionBuil
 
         ShapedRecipeBuilder.shaped(RecipeCategory.FOOD, Items.SUGAR, 3)
                 .pattern("###")
-                .define('#', Items.BEETROOT)
+//                .define('#', Items.BEETROOT)
+                .define('#', ModItemTags.SUGAR_TAG)
                 .unlockedBy(getHasName(Items.BEETROOT), has(Items.BEETROOT))
                 .save(pWriter, Eclosion.MOD_ID + ":" + "sugar_from_beetroot");
 

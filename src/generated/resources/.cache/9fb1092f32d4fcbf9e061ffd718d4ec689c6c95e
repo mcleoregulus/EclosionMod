@@ -1,4 +1,4 @@
-// 1.20.1	2026-04-07T14:23:00.5468142	Recipes
+// 1.20.1	2026-04-07T23:30:43.1902811	Recipes
 e838f6422b2dee60f155aed7696611ffb6193ab5 data/eclosion/advancements/recipes/building_blocks/ice_ether_block.json
 cac451f4dafc373f95f190c2f0ded3c6015af021 data/eclosion/advancements/recipes/building_blocks/ice_ether_ore.json
 d9bd1f86c5c3ef38474f0374ed82139db61c315e data/eclosion/advancements/recipes/food/sugar_from_beetroot.json
@@ -14,4 +14,4 @@ cb6b8f29131b1f7ac6528681b266957d72f4f804 data/eclosion/recipes/ice_ether_from_bl
 9307ed21082bc75351a787bedf6f7b85ea9aaa7b data/eclosion/recipes/ice_ether_from_smelting_ice_ether_ore.json
 b24b367c31f162f89d8031dc2edb12c39b62b487 data/eclosion/recipes/ice_ether_from_smelting_raw_ice_ether.json
 5d40923b2aca71bf04714bb66e78fd3ea7df4f29 data/eclosion/recipes/ice_ether_ore.json
-41d0419c08eb1fce0379436f531fa88e61b9a5ac data/eclosion/recipes/sugar_from_beetroot.json
+d6c2a51690667404fa7015268efdf57b352122c6 data/eclosion/recipes/sugar_from_beetroot.json

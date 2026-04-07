@@ -1,3 +1,4 @@
-// 1.20.1	2026-04-07T14:23:00.5509506	Tags for minecraft:block mod id eclosion
+// 1.20.1	2026-04-07T23:30:43.1939889	Tags for minecraft:block mod id eclosion
+6629a9472a928a0ef70bbd95fd2ed2fcc5f02ded data/eclosion/tags/blocks/ore_tags.json
 7191fc68b444fa0921533dc29120d195a387836b data/minecraft/tags/blocks/mineable/pickaxe.json
 4182fa2db9b492a900be442cbad7fce21c41388d data/minecraft/tags/blocks/needs_iron_tool.json
