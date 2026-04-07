@@ -3,5 +3,9 @@
   "item.eclosion.inspiration": "Inspiration",
   "item.eclosion.material.cardboard": "Cardboard",
 
+  "block.eclosion.ice_ether_ore": "Ice Ether Ore",
+  "block.eclosion.ice_ether_block": "Ice Ether Block",
+  "block.eclosion.raw_ice_ether_block": "Raw Ice Ether Block",
+
   "itemGroup.eclosion": "Eclosion"
 }

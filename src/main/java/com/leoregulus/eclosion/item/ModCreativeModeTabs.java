@@ -1,6 +1,7 @@
 package com.leoregulus.eclosion.item;
 
 import com.leoregulus.eclosion.Eclosion;
+import com.leoregulus.eclosion.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -21,6 +22,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.ICE_ETHER.get());
                         pOutput.accept(ModItems.INSPIRATION.get());
                         pOutput.accept(ModItems.CARDBOARD.get());
+                        pOutput.accept(ModBlocks.ICE_ETHER_BLOCK.get());
+                        pOutput.accept(ModBlocks.ICE_ETHER_ORE.get());
+                        pOutput.accept(ModBlocks.RAW_ICE_ETHER_BLOCK.get());
+
                     }).build());
 
 //    public static final RegistryObject<CreativeModeTab> MATERIAL =

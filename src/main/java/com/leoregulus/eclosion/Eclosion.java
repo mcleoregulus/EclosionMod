@@ -1,5 +1,6 @@
 package com.leoregulus.eclosion;
 
+import com.leoregulus.eclosion.block.ModBlocks;
 import com.leoregulus.eclosion.item.ModCreativeModeTabs;
 import com.leoregulus.eclosion.item.ModItems;
 import com.mojang.logging.LogUtils;
@@ -38,6 +39,7 @@ public class Eclosion
 
         ModItems.register(modEventBus);
         ModCreativeModeTabs.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
