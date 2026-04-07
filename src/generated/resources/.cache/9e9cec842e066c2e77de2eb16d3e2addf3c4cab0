@@ -1,0 +1,10 @@
+// 1.20.1	2026-04-07T14:23:00.5413845	Block States: eclosion
+c41fe59957e5830493c82ee82c60ea9d8d6e28bc assets/eclosion/blockstates/ice_ether_block.json
+a26dc212a86fd9d5c72d2fe1a4cf3c3ee5ca6ee1 assets/eclosion/blockstates/ice_ether_ore.json
+bf170c4bc4b42a4e0658110f062366f0e8c090a2 assets/eclosion/blockstates/raw_ice_ether_block.json
+340efe956873f156354df50d2a38367df0dfdaf1 assets/eclosion/models/block/ice_ether_block.json
+d24ad5acaebfebbbeca16fdf2e4576009781d9fc assets/eclosion/models/block/ice_ether_ore.json
+ae829278bf5daeb4b80d8be7a30462cb746bc23f assets/eclosion/models/block/raw_ice_ether_block.json
+2b6f45265f451619026f60d4efc2ca89cb4831dc assets/eclosion/models/item/ice_ether_block.json
+14e85ae7e1543e8a1f19863eb714305bd8f4b10d assets/eclosion/models/item/ice_ether_ore.json
+86f0200e0e577dac1e1cbc4e1a2bd8e00ffefc78 assets/eclosion/models/item/raw_ice_ether_block.json

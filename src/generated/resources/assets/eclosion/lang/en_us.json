@@ -1,0 +1,10 @@
+{
+  "block.eclosion.ice_ether_block": "Ice Ether Block",
+  "block.eclosion.ice_ether_ore": "Ice Ether Ore",
+  "block.eclosion.raw_ice_ether_block": "Raw Ice Ether Block",
+  "item.eclosion.ice_ether": "Ice Ether",
+  "item.eclosion.inspiration": "Inspiration",
+  "item.eclosion.material.cardboard": "Cardboard",
+  "item.eclosion.raw_ice_ether": "Raw Ice Ether",
+  "itemGroup.eclosion": "Eclosion"
+}
