@@ -47,6 +47,8 @@ public class ModEnUsLangProvider extends LanguageProvider {
         add(ModItems.FIRE_ETHER_SWORD.get(), "Fire Ether Sword");
 
         add(ModItems.PICKAXE_AXE_ITEM.get(), "Pickaxe Axe");
+        add("tooltip.eclosion.pickaxe_axe.shift", "This is a item that can be used as a pickaxe and an axe");
+        add("tooltip.eclosion.pickaxe_axe", "Hold §6§n§l§oSHIFT§r§r§r§r for more info!");
 
         add("itemGroup.eclosion", "Eclosion");
     }
