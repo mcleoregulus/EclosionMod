@@ -50,6 +50,11 @@ public class ModEnUsLangProvider extends LanguageProvider {
         add("tooltip.eclosion.pickaxe_axe.shift", "This is a item that can be used as a pickaxe and an axe");
         add("tooltip.eclosion.pickaxe_axe", "Hold §6§n§l§oSHIFT§r§r§r§r for more info!");
 
+        add(ModItems.ICE_ETHER_HELMET.get(), "Ice Ether Helmet");
+        add(ModItems.ICE_ETHER_CHESTPLATE.get(), "Ice Ether Chestplate");
+        add(ModItems.ICE_ETHER_LEGGINGS.get(), "Ice Ether Leggings");
+        add(ModItems.ICE_ETHER_BOOTS.get(), "Ice Ether Boots");
+
         add("itemGroup.eclosion", "Eclosion");
     }
 }
