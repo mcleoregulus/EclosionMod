@@ -1,4 +1,13 @@
-// 1.20.1	2026-04-07T14:23:00.5447949	Loot Tables
+// 1.20.1	2026-04-08T11:27:22.5196997	Loot Tables
 04fea5d3719f6e69917c2ec2b07a9bd6e7904241 data/eclosion/loot_tables/blocks/ice_ether_block.json
+f6d84f8e92e4db59fac3e790e0de8ba1dd7d7732 data/eclosion/loot_tables/blocks/ice_ether_button.json
+fec39c45b5922a695590dad5bc2ee53b4017a9c1 data/eclosion/loot_tables/blocks/ice_ether_door.json
+2fc5afb23ad05d5c553c71295181a892cf57bb0e data/eclosion/loot_tables/blocks/ice_ether_fence.json
+97c0ae85db3dcc466f1bc5b47315b4e1a1492bef data/eclosion/loot_tables/blocks/ice_ether_fence_gate.json
 146cc3b7b6c72dac60eae247369d94fbb1cf6380 data/eclosion/loot_tables/blocks/ice_ether_ore.json
+5f2e59b4782453bc891336fd29f63f3c2133d137 data/eclosion/loot_tables/blocks/ice_ether_pressure_plate.json
+33d273ff63e512603a8f66a950190aae8371e7cf data/eclosion/loot_tables/blocks/ice_ether_slab.json
+597b7e42e46a0204ad2f6cfa8e275580ad07255b data/eclosion/loot_tables/blocks/ice_ether_stairs.json
+12645c5b4a382009141024835c1faf02f455a643 data/eclosion/loot_tables/blocks/ice_ether_trapdoor.json
+e3990262e7e40c7b22aa35753910f072300c380e data/eclosion/loot_tables/blocks/ice_ether_wall.json
 b6c6a78cf275e7981c0ace4ce7ac1ae97ca5bb0b data/eclosion/loot_tables/blocks/raw_ice_ether_block.json

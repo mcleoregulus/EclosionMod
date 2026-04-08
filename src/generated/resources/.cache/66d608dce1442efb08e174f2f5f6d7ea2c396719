@@ -1,8 +1,12 @@
-// 1.20.1	2026-04-07T22:41:49.7680504	Item Models: eclosion
+// 1.20.1	2026-04-08T11:27:22.5210198	Item Models: eclosion
 a913a5694c74fd4b2b9c02d056d3bc26efb79123 assets/eclosion/models/item/anthracite.json
 7db22938803ecfc88bd2de67caf025eca745764a assets/eclosion/models/item/cheese.json
 9f3397e8f29cd203ca5ef929fcd89d3d779e3ebe assets/eclosion/models/item/corn.json
 266c9758768a01c46debc11f52db52ac26a3264e assets/eclosion/models/item/ice_ether.json
+f68bd0f3fe367013aad27a7631117eda12ddc6db assets/eclosion/models/item/ice_ether_button.json
+d58e336dd1c820e68eec61912e07a7e336cfbca1 assets/eclosion/models/item/ice_ether_door.json
+18b78941751f0e81a1acefcc8134fdea9c3d4544 assets/eclosion/models/item/ice_ether_fence.json
+4468022d0d509a6b7a1355e177757f9acff6f04f assets/eclosion/models/item/ice_ether_wall.json
 ee2ae694e5878b9680c44a86db00bb98d2493b54 assets/eclosion/models/item/inspiration.json
 b3d1fd12a6fefe49ff7ca5ee2effbbdf58318375 assets/eclosion/models/item/prospector.json
 846dd003a7a55e1cbb723f5260799a6cad590e2e assets/eclosion/models/item/raw_ice_ether.json
