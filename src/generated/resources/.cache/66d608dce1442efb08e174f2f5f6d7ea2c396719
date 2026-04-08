@@ -1,7 +1,12 @@
-// 1.20.1	2026-04-08T11:27:22.5210198	Item Models: eclosion
+// 1.20.1	2026-04-08T11:50:04.3640014	Item Models: eclosion
 a913a5694c74fd4b2b9c02d056d3bc26efb79123 assets/eclosion/models/item/anthracite.json
 7db22938803ecfc88bd2de67caf025eca745764a assets/eclosion/models/item/cheese.json
 9f3397e8f29cd203ca5ef929fcd89d3d779e3ebe assets/eclosion/models/item/corn.json
+50c17d05f157fe48128fd7bc71b0e8254a43992d assets/eclosion/models/item/fire_ether_axe.json
+8093bc7dc55bfc7d382d1cebfb50b59a47c928eb assets/eclosion/models/item/fire_ether_hoe.json
+1226918d81d581d106873be6e17d092ec07c1362 assets/eclosion/models/item/fire_ether_pickaxe.json
+ccfeb1de3bcf8207c72d543700286af7d4cf9416 assets/eclosion/models/item/fire_ether_shovel.json
+884cc1fe0245a0a161907425a801cf160f6c0e30 assets/eclosion/models/item/fire_ether_sword.json
 266c9758768a01c46debc11f52db52ac26a3264e assets/eclosion/models/item/ice_ether.json
 f68bd0f3fe367013aad27a7631117eda12ddc6db assets/eclosion/models/item/ice_ether_button.json
 d58e336dd1c820e68eec61912e07a7e336cfbca1 assets/eclosion/models/item/ice_ether_door.json
