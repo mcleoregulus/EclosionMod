@@ -1,6 +1,7 @@
 package com.leoregulus.eclosion.item;
 
 import com.leoregulus.eclosion.Eclosion;
+import com.leoregulus.eclosion.block.ModBlocks;
 import com.leoregulus.eclosion.item.custom.CustomArmorItem;
 import com.leoregulus.eclosion.item.custom.ModFuelItem;
 import com.leoregulus.eclosion.item.custom.PickaxeAxeItem;
@@ -61,6 +62,9 @@ public class ModItems {
             () -> new ArmorItem(ModArmorMaterials.ICE_ETHER, ArmorItem.Type.LEGGINGS, new Item.Properties()));
     public static final RegistryObject<Item> ICE_ETHER_BOOTS = ITEMS.register("ice_ether_boots",
             () -> new ArmorItem(ModArmorMaterials.ICE_ETHER, ArmorItem.Type.BOOTS, new Item.Properties()));
+
+    public static final RegistryObject<Item> STRAWBERRY_SEEDS = ITEMS.register("strawberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.STRAWBERRY_CROP.get(), new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

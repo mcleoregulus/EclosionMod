@@ -1,4 +1,4 @@
-// 1.20.1	2026-04-08T11:27:22.5155353	Block States: eclosion
+// 1.20.1	2026-04-08T14:04:35.2796439	Block States: eclosion
 c41fe59957e5830493c82ee82c60ea9d8d6e28bc assets/eclosion/blockstates/ice_ether_block.json
 de6501778bb5034dabae04beed21c7c75d667604 assets/eclosion/blockstates/ice_ether_button.json
 f00cedfccdcf0e529fcc9d08919e540ae7a4f0bf assets/eclosion/blockstates/ice_ether_door.json
@@ -11,6 +11,7 @@ ce998e2d8183b15175a2048411ea606cf247fbf7 assets/eclosion/blockstates/ice_ether_s
 d8d86ac8ca3423ce63798dd7bfe2b1b697b3ca6f assets/eclosion/blockstates/ice_ether_trapdoor.json
 ac30bd730d34e88de017102f89c3728dbb1988b8 assets/eclosion/blockstates/ice_ether_wall.json
 bf170c4bc4b42a4e0658110f062366f0e8c090a2 assets/eclosion/blockstates/raw_ice_ether_block.json
+21ad736852bba963b683fd6f751cf126c391ada7 assets/eclosion/blockstates/strawberry_crop.json
 340efe956873f156354df50d2a38367df0dfdaf1 assets/eclosion/models/block/ice_ether_block.json
 8390180d1496ef34feccdd3e50d065e5a5579a7d assets/eclosion/models/block/ice_ether_button.json
 26a4e48e7cf28a4b2a0bcd87af1c58389ad0346a assets/eclosion/models/block/ice_ether_button_pressed.json
@@ -43,6 +44,12 @@ fb59bfcc83e1c50f975832804210a6e71cf3dafd assets/eclosion/models/block/ice_ether_
 1bf070422fdd89dc64cf8b646e800ed3645b0a2b assets/eclosion/models/block/ice_ether_wall_side.json
 556149c8e9b4636639b7d84c3d482061799e9fac assets/eclosion/models/block/ice_ether_wall_side_tall.json
 ae829278bf5daeb4b80d8be7a30462cb746bc23f assets/eclosion/models/block/raw_ice_ether_block.json
+db2b098f1e21a2424af97c4c4e0be1c7a3f7e2f3 assets/eclosion/models/block/strawberry_crop_stage0.json
+8789141c8d6e356c8ff6cb6d1a2363fa03ebe5de assets/eclosion/models/block/strawberry_crop_stage1.json
+7a3d4d97aa5dd9040cadc546b4c4106d3efa2a6f assets/eclosion/models/block/strawberry_crop_stage2.json
+f2fe7893419ad91b4e788c042a53e356ab60e35a assets/eclosion/models/block/strawberry_crop_stage3.json
+b0f1a263f4425741544e396c8d0c0010981f6999 assets/eclosion/models/block/strawberry_crop_stage4.json
+170a741c04a8e68cf457ac12fe1327471c36befa assets/eclosion/models/block/strawberry_crop_stage5.json
 2b6f45265f451619026f60d4efc2ca89cb4831dc assets/eclosion/models/item/ice_ether_block.json
 fed258af54dee96c6612c92ddb85297aeb55c5d1 assets/eclosion/models/item/ice_ether_fence_gate.json
 14e85ae7e1543e8a1f19863eb714305bd8f4b10d assets/eclosion/models/item/ice_ether_ore.json
